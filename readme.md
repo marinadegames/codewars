@@ -1,6 +1,6 @@
 # What is this repository? #
 
-Hello! My name is Eungene!
+Hello! My name is Eugene!
 I learn JS and framework React.
 I really want to become a programmer.
 
