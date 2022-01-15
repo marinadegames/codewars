@@ -5,7 +5,6 @@ let arr = [2334454,5]
 // minMax([1])           == [1, 1]
 
 function minMax(arr) {
-
     let sortArr = arr.sort(function (a,b){
         if (a < b) {
             return -1
@@ -19,7 +18,6 @@ function minMax(arr) {
     res.push(sortArr[0])
     res.push(sortArr[sortArr.length - 1])
     return res;
-
 }
 
 console.log(minMax(arr))
